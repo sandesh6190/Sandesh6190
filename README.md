@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning for myself
+
+##My Skill Set
+
+##Find Me On
+![GitHub watchers](https://img.shields.io/github/watchers/sandesh6190/eKirana?style=social&logoColor=black&labelColor=red&color=red)
