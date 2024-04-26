@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on https://github.com/sandesh6190/eKirana
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning a **React**
 
 - 👨‍💻 All of my projects are available at https://github.com/sandesh6190/
 
