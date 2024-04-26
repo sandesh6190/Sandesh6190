@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [sandesh6190](sandesh6190)
+- 👨‍💻 All of my projects are available at https://github.com/sandesh6190/
 
 - 📫 How to reach me **sandeshlimbu0842@gmail.com**
 
