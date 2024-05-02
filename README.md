@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh6190&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh6190" /> </p>
 
-- 🔭 I’m currently working on eKirana https://github.com/sandesh6190/eKirana
+- 🔭 I’m currently working on TextUtils https://github.com/sandesh6190/TextUtils
 
 - 🌱 I’m currently learning a **React**
 
