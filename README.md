@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on TextUtils https://github.com/sandesh6190/TextUtils
 
-- 🌱 I’m currently learning a **React**
+- 🌱 I’m currently learning a **GraphQL**
 
 - 👨‍💻 All of my projects are available at https://github.com/sandesh6190/
 
